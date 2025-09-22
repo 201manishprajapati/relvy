@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+tiktoken
+python-multipart
+ijson
+openai
